@@ -1,4 +1,4 @@
-defmodule ProjectBullmarketWeb.PageController do
+defmodule ProjectBullmarketWeb.HomeController do
   use ProjectBullmarketWeb, :controller
 
   def index(conn, _params) do
