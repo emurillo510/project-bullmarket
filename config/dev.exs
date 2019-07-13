@@ -3,7 +3,7 @@ use Mix.Config
 # Configure your database
 config :project_bullmarket, ProjectBullmarket.Repo,
   username: "root",
-  password: "",
+  password: "password",
   database: "project_bullmarket_dev",
   hostname: "localhost",
   show_sensitive_data_on_connection_error: true,
