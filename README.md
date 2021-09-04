@@ -18,3 +18,6 @@ Ready to run in production? Please [check our deployment guides](https://hexdocs
   * Docs: https://hexdocs.pm/phoenix
   * Mailing list: http://groups.google.com/group/phoenix-talk
   * Source: https://github.com/phoenixframework/phoenix
+
+![image](https://user-images.githubusercontent.com/1156174/132084121-7cd826ef-f3f8-4039-bde4-205a6aa6671a.png)
+
